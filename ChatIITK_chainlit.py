@@ -1,4 +1,7 @@
 import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import os
 import logging
 from dotenv import load_dotenv
 import chainlit as cl
@@ -28,7 +31,7 @@ def load_model(api_key, LOGGING=logging):
     llm = ChatGroq(
         temperature=0.1,
         groq_api_key=api_key,
-        model_name="mixtral-8x7b-32768"
+        model_name="llama-3.2-11b-text-preview"
     )
     
     logging.info("Groq model initialized")
@@ -57,13 +60,18 @@ async def start():
     prompt, memory = get_prompt_template(promptTemplate_type="llama3", history=True)
     
     # Initialize advanced retriever
-    from advanced_retrieval import AdvancedRetriever
+    logging.info("Initializing retriever...")
+    import sys
+    sys.path.append("/Users/udbhavagarwal/Documents/Code/ChatIITK2.0")
+    from retrieval.advanced_retrieval import AdvancedRetriever
+    
     advanced_retriever = AdvancedRetriever(db, embeddings, llm)
+    logging.info("Retriever initialized successfully")
     
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",
-        retriever=advanced_retriever.compression_retriever,  # Use advanced retriever
+        retriever=advanced_retriever.compression_retriever,
         return_source_documents=True,
         chain_type_kwargs={"prompt": prompt, "memory": memory},
     )

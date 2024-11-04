@@ -1,7 +1,7 @@
 import os
 import csv
 from datetime import datetime
-from langchain_community.embeddings import SentenceTransformerEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from constants import EMBEDDING_MODEL_NAME
 
 
@@ -29,4 +29,4 @@ def log_to_csv(question, answer):
 
 
 def get_embeddings(device_type="cpu"):
-    return SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    return HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
