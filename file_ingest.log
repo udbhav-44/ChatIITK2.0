@@ -1,0 +1,226 @@
+Exception: Can't pickle <function load_document_batch at 0x127ed47c0>: it's not the same object as __main__.load_document_batch
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Alumni.csv loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loading error: 
+
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/udbhavagarwal/nltk_data'
+    - '/opt/anaconda3/nltk_data'
+    - '/opt/anaconda3/share/nltk_data'
+    - '/opt/anaconda3/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Alumni.csv loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loading error: 
+No module named 'unstructured'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loading error: 
+No module named 'unstructured'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loading error: 
+No module named 'unstructured'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+unstructured package not found, please install it with `pip install unstructured`
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loading error: 
+No module named 'unstructured'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+No module named 'markdown'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+name 'MAGIC_NONE' is not defined
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+No module named 'markdown'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+No module named 'markdown'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Constitution.md loading error: 
+No module named 'markdown'
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ANC.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/BCS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Gymkhana_website.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/IITKMS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/MnC Council.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/ICS.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Thats_IITK_Blogs.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Internship-policy.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Mandate-PoR-Handbook.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-E-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/UG-Manual.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/Appendix-A-Constitution.pdf loading error: 
+failed to find libmagic.  Check your installation
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language/Final_Model/SOURCE_DOCUMENTS/PoR-Handbook-5-1.pdf loading error: 
+failed to find libmagic.  Check your installation

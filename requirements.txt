@@ -1,0 +1,16 @@
+# Natural Language Processing
+langchain==0.0.267
+chromadb==0.4.6
+pdfminer.six==20221105
+docx2txt
+unstructured
+groq
+langchain-groq
+python-dotenv
+
+# Utilities
+click
+requests
+
+# Excel File Manipulation
+openpyxl
