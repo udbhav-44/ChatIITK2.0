@@ -7,6 +7,8 @@ unstructured
 groq
 langchain-groq
 python-dotenv
+lanchain_huggingface
+sentence-transformers
 
 # Utilities
 click
