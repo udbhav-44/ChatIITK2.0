@@ -14,3 +14,4 @@ requests
 
 # Excel File Manipulation
 openpyxl
+chainlit
