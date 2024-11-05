@@ -17,6 +17,7 @@ docx2txt
 unstructured
 unstructured[pdf]
 llama-cpp-python
+langchain_community
 
 # Utilities
 urllib3==1.26.6
