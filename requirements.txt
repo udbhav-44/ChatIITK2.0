@@ -7,7 +7,7 @@ unstructured
 groq
 langchain-groq
 python-dotenv
-lanchain_huggingface
+langchain_huggingface
 sentence-transformers
 langchain_community
 
