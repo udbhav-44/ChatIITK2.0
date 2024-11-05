@@ -19,6 +19,7 @@ unstructured[pdf]
 llama-cpp-python
 langchain_huggingface
 
+langchain_community
 
 # Utilities
 urllib3==1.26.6
