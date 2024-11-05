@@ -1,20 +1,31 @@
-# Natural Language Processing
-langchain==0.0.267
-chromadb==0.4.6
-pdfminer.six==20221105
-docx2txt
-unstructured
-groq
-langchain-groq
-python-dotenv
-langchain_huggingface
-sentence-transformers
-langchain_community
+# Core dependencies
+langchain==0.1.12
+langchain-community==0.0.27
+langchain-core==0.1.30
+langchain-groq==0.0.1
+langchain-huggingface==0.1.2
+
+# Model and embeddings
+transformers==4.38.2
+sentence-transformers==2.5.1
+torch==2.2.1
+
+# Document processing
+chromadb==0.4.24
+pdfminer.six==20231228
+docx2txt==0.8
+unstructured==0.12.5
+openpyxl==3.1.2
+
+# Web search
+duckduckgo-search==4.4.3
+
+# UI and interaction
+chainlit==1.0.200
 
 # Utilities
-click
-requests
-
-# Excel File Manipulation
-openpyxl
-chainlit
+python-dotenv==1.0.1
+click==8.1.7
+requests==2.31.0
+numpy==1.26.4
+rank-bm25==0.2.2
