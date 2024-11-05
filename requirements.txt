@@ -9,6 +9,7 @@ langchain-groq
 python-dotenv
 lanchain_huggingface
 sentence-transformers
+langchain_community
 
 # Utilities
 click
@@ -16,3 +17,4 @@ requests
 
 # Excel File Manipulation
 openpyxl
+chainlit
