@@ -1,15 +1,15 @@
 # Natural Language Processing
-langchain==0.0.267
-chromadb==0.4.6
+langchain-core>=0.3.15
+langchain-community>=0.3.5
+langchain-groq>=0.2.1
+langchain-huggingface>=0.1.2
+chromadb>=0.7.0  # Updated to newer version for pydantic 2.x compatibility
 sentence-transformers
-langchain-groq
 huggingface_hub
 transformers
 docx2txt
 unstructured
 unstructured[pdf]
-langchain-huggingface
-langchain_community
 
 # Utilities
 click
