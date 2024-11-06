@@ -62,10 +62,11 @@ async def start():
     # Initialize advanced retriever
     logging.info("Initializing retriever...")
     import sys
-    sys.path.append("./ChatIITK2.0")
-    from retrieval.advanced_retrieval import AdvancedRetriever
+    sys.path.append("./")
     
-    advanced_retriever = AdvancedRetriever(db, embeddings, llm)
+    from retrieval import advanced_retrieval
+    
+    advanced_retriever = advanced_retrieval.AdvancedRetriever(db, embeddings, llm)
     logging.info("Retriever initialized successfully")
     
     qa_chain = RetrievalQA.from_chain_type(
