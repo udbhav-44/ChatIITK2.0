@@ -62,7 +62,7 @@ async def start():
     # Initialize advanced retriever
     logging.info("Initializing retriever...")
     import sys
-    sys.path.append("/Users/udbhavagarwal/Documents/Code/ChatIITK2.0")
+    sys.path.append("./ChatIITK2.0")
     from retrieval.advanced_retrieval import AdvancedRetriever
     
     advanced_retriever = AdvancedRetriever(db, embeddings, llm)
