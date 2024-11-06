@@ -62,7 +62,6 @@ async def start():
     
     # Initialize advanced retriever
     logging.info("Initializing retriever...")
-    
     advanced_retriever = advanced_retrieval.AdvancedRetriever(db, embeddings, llm)
     logging.info("Retriever initialized successfully")
     
