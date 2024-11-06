@@ -1,7 +1,6 @@
 # Natural Language Processing
 langchain==0.0.267
 chromadb==0.4.6
-# InstructorEmbedding
 sentence-transformers==2.2.2
 langchain-groq
 huggingface_hub
@@ -24,6 +23,3 @@ openpyxl
 
 # Environment and Config
 python-dotenv
-
-# Huggingface
-huggingface_hub[cli]
