@@ -18,6 +18,7 @@ from constants import (
     CHROMA_SETTINGS,
 )
 from langchain_groq import ChatGroq
+from retrieval import advanced_retrieval
 
 # Load environment variables
 load_dotenv()
@@ -61,11 +62,8 @@ async def start():
     
     # Initialize advanced retriever
     logging.info("Initializing retriever...")
-    import sys
-    sys.path.append("./ChatIITK2.0")
-    from retrieval.advanced_retrieval import AdvancedRetriever
     
-    advanced_retriever = AdvancedRetriever(db, embeddings, llm)
+    advanced_retriever = advanced_retrieval.AdvancedRetriever(db, embeddings, llm)
     logging.info("Retriever initialized successfully")
     
     qa_chain = RetrievalQA.from_chain_type(
