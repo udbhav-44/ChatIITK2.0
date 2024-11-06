@@ -10,7 +10,7 @@ transformers
 docx2txt
 unstructured
 unstructured[pdf]
-
+rank-bm25
 # Utilities
 click
 requests
